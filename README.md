@@ -10,6 +10,7 @@ ftdetect/syntax/indent
 * cilk
 * cuda
 * gnuplot
+* matlab
 
 ### Plugins
 
