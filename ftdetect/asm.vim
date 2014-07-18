@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.lds set filetype=asm
+autocmd BufRead,BufNewFile *.lds set syntax=asm
